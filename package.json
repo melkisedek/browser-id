@@ -1,0 +1,14 @@
+{
+  "name": "browser-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Melkisedek Hamakali",
+  "license": "MIT",
+  "engines": {
+    "node": "4.6.1"
+  }
+}
